@@ -65,6 +65,7 @@ nav ul li a {
   font-size: 22px;
   position: relative;
   color: white;
+  margin-right: 30px
 }
 .cart-item-count {
   position: absolute;
